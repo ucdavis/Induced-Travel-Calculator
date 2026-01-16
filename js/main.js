@@ -214,12 +214,37 @@ $('#vmtForm').submit(function(e) {
   }
 })
 
+
+const fetchYearData = async (year) => {
+  const response = await fetch(`/data/data-${year}.json`)
+  if (!response.ok) {
+    console.error(`Failed to fetch data for year ${year}`)
+    return
+  }
+  const yearData = await response.json()
+
+  data[year] = yearData.map(item => {
+    return {
+      ...item,
+      county: item.county.toUpperCase(),
+    }
+  })
+}
+
+const fetchMSAs = async () => {
+  const response = await fetch('/data/msas.json')
+  if (!response.ok) {
+    console.error('Failed to fetch MSAs')
+    return
+  }
+  msas = await response.json()
+}
+
 // On page load, get data
-$.getJSON('/data/data-2019.json', function(response) { data['2019'] = response })
-$.getJSON('/data/data-2018.json', function(response) { data['2018'] = response })
-$.getJSON('/data/data-2017.json', function(response) { data['2017'] = response })
-$.getJSON('/data/data-2016.json', function(response) { data['2016'] = response })
-$.getJSON('/data/msas.json', function(response) { msas = response })
+['2024', '2023', '2022', '2019', '2018', '2017', '2016'].forEach(year => {
+  fetchYearData(year)
+})
+fetchMSAs()
 
 // On page load, if there is a selection, trigger change
 if ($('[name="facilityType"]:checked').val()) {

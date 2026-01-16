@@ -1,0 +1,524 @@
+[
+  {
+    "county": "Alameda",
+    "lanemiles1": 987.19,
+    "lanemiles2": 130.24,
+    "lanemiles3": 969.73,
+    "vmt1": 7432.88,
+    "vmt2": 750.71,
+    "vmt3": 1746.93
+  },
+  {
+    "county": "Alpine",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 57.54,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 29.56
+  },
+  {
+    "county": "Amador",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 194.34,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 232.47
+  },
+  {
+    "county": "Butte",
+    "lanemiles1": "",
+    "lanemiles2": 15.18,
+    "lanemiles3": 320.88,
+    "vmt1": "",
+    "vmt2": 37.25,
+    "vmt3": 713.88
+  },
+  {
+    "county": "Calaveras",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 98.62,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 111.76
+  },
+  {
+    "county": "Colusa",
+    "lanemiles1": 137.44,
+    "lanemiles2": "",
+    "lanemiles3": 83.85,
+    "vmt1": 372.39,
+    "vmt2": "",
+    "vmt3": 105.87
+  },
+  {
+    "county": "Contra Costa",
+    "lanemiles1": 382.02,
+    "lanemiles2": 284.32,
+    "lanemiles3": 784.13,
+    "vmt1": 2541.25,
+    "vmt2": 1939.13,
+    "vmt3": 1468.92
+  },
+  {
+    "county": "Del Norte",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 196.06,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 174.38
+  },
+  {
+    "county": "El Dorado",
+    "lanemiles1": "",
+    "lanemiles2": 69.86,
+    "lanemiles3": 235.53,
+    "vmt1": "",
+    "vmt2": 334.64,
+    "vmt3": 362.03
+  },
+  {
+    "county": "Fresno",
+    "lanemiles1": 264.88,
+    "lanemiles2": 400.64,
+    "lanemiles3": 592.64,
+    "vmt1": 1027.49,
+    "vmt2": 2170.32,
+    "vmt3": 850.58
+  },
+  {
+    "county": "Glenn",
+    "lanemiles1": 115.39,
+    "lanemiles2": "",
+    "lanemiles3": 35.41,
+    "vmt1": 269.11,
+    "vmt2": "",
+    "vmt3": 41.59
+  },
+  {
+    "county": "Humboldt",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 657.83,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 729.93
+  },
+  {
+    "county": "Imperial",
+    "lanemiles1": 376.08,
+    "lanemiles2": "",
+    "lanemiles3": 727.96,
+    "vmt1": 713.14,
+    "vmt2": "",
+    "vmt3": 861.41
+  },
+  {
+    "county": "Inyo",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 503.95,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 349.29
+  },
+  {
+    "county": "Kern",
+    "lanemiles1": 404.14,
+    "lanemiles2": 779.18,
+    "lanemiles3": 1427.22,
+    "vmt1": 1492.73,
+    "vmt2": 2617.57,
+    "vmt3": 1741.55
+  },
+  {
+    "county": "Kings",
+    "lanemiles1": 106.75,
+    "lanemiles2": 64.43,
+    "lanemiles3": 169.06,
+    "vmt1": 394.53,
+    "vmt2": 238.97,
+    "vmt3": 255.16
+  },
+  {
+    "county": "Lake",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 204.96,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 289.22
+  },
+  {
+    "county": "Lassen",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 402.59,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 227.55
+  },
+  {
+    "county": "Los Angeles",
+    "lanemiles1": 2806.98,
+    "lanemiles2": 1715.5,
+    "lanemiles3": 8222.15,
+    "vmt1": 22479.83,
+    "vmt2": 12300.12,
+    "vmt3": 17006.64
+  },
+  {
+    "county": "Madera",
+    "lanemiles1": "",
+    "lanemiles2": 123.61,
+    "lanemiles3": 186.44,
+    "vmt1": "",
+    "vmt2": 768.56,
+    "vmt3": 380.31
+  },
+  {
+    "county": "Marin",
+    "lanemiles1": 19.45,
+    "lanemiles2": 228.95,
+    "lanemiles3": 92.87,
+    "vmt1": 118.63,
+    "vmt2": 1247.01,
+    "vmt3": 169.04
+  },
+  {
+    "county": "Mariposa",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 212.87,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 87.88
+  },
+  {
+    "county": "Mendocino",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 368.3,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 453.01
+  },
+  {
+    "county": "Merced",
+    "lanemiles1": 129.63,
+    "lanemiles2": 186.54,
+    "lanemiles3": 414.33,
+    "vmt1": 463.96,
+    "vmt2": 749.16,
+    "vmt3": 712.1
+  },
+  {
+    "county": "Modoc",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 268.55,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 69.24
+  },
+  {
+    "county": "Mono",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 465.57,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 229.83
+  },
+  {
+    "county": "Monterey",
+    "lanemiles1": "",
+    "lanemiles2": 476.57,
+    "lanemiles3": 269.94,
+    "vmt1": "",
+    "vmt2": 1717.98,
+    "vmt3": 617.67
+  },
+  {
+    "county": "Napa",
+    "lanemiles1": 9.47,
+    "lanemiles2": 38.52,
+    "lanemiles3": 106.68,
+    "vmt1": 57.83,
+    "vmt2": 171.57,
+    "vmt3": 259.47
+  },
+  {
+    "county": "Nevada",
+    "lanemiles1": 165.35,
+    "lanemiles2": "",
+    "lanemiles3": 141.31,
+    "vmt1": 391.92,
+    "vmt2": "",
+    "vmt3": 283.2
+  },
+  {
+    "county": "Orange",
+    "lanemiles1": 770.77,
+    "lanemiles2": 927.53,
+    "lanemiles3": 3460.96,
+    "vmt1": 5400,
+    "vmt2": 5243.3,
+    "vmt3": 7358.13
+  },
+  {
+    "county": "Placer",
+    "lanemiles1": 335.96,
+    "lanemiles2": 43.81,
+    "lanemiles3": 201.44,
+    "vmt1": 1299,
+    "vmt2": 261.87,
+    "vmt3": 523.73
+  },
+  {
+    "county": "Plumas",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": "",
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": ""
+  },
+  {
+    "county": "Riverside",
+    "lanemiles1": 1367.43,
+    "lanemiles2": 340.45,
+    "lanemiles3": 1126.77,
+    "vmt1": 7915.33,
+    "vmt2": 3072.78,
+    "vmt3": 2272.58
+  },
+  {
+    "county": "Sacramento",
+    "lanemiles1": 373.19,
+    "lanemiles2": 400.09,
+    "lanemiles3": 1389.33,
+    "vmt1": 2371.93,
+    "vmt2": 2796.49,
+    "vmt3": 2961.09
+  },
+  {
+    "county": "San Benito",
+    "lanemiles1": "",
+    "lanemiles2": 30.58,
+    "lanemiles3": 97.97,
+    "vmt1": "",
+    "vmt2": 122.25,
+    "vmt3": 290.32
+  },
+  {
+    "county": "San Bernardino",
+    "lanemiles1": 2082.13,
+    "lanemiles2": 384.35,
+    "lanemiles3": 1730.73,
+    "vmt1": 9199.86,
+    "vmt2": 2924.33,
+    "vmt3": 2843.91
+  },
+  {
+    "county": "San Diego",
+    "lanemiles1": 1726.73,
+    "lanemiles2": 731.23,
+    "lanemiles3": 1473.82,
+    "vmt1": 11111.27,
+    "vmt2": 4278.09,
+    "vmt3": 2357.75
+  },
+  {
+    "county": "San Francisco",
+    "lanemiles1": 92.37,
+    "lanemiles2": 62.44,
+    "lanemiles3": 398.94,
+    "vmt1": 556.48,
+    "vmt2": 445.83,
+    "vmt3": 691.5
+  },
+  {
+    "county": "San Joaquin",
+    "lanemiles1": 418.03,
+    "lanemiles2": 261.01,
+    "lanemiles3": 790.11,
+    "vmt1": 2152.09,
+    "vmt2": 1593.51,
+    "vmt3": 1129.18
+  },
+  {
+    "county": "San Luis Obispo",
+    "lanemiles1": "",
+    "lanemiles2": 286.17,
+    "lanemiles3": 223.65,
+    "vmt1": "",
+    "vmt2": 1347.39,
+    "vmt3": 459.73
+  },
+  {
+    "county": "San Mateo",
+    "lanemiles1": 241.63,
+    "lanemiles2": 327.24,
+    "lanemiles3": 303.07,
+    "vmt1": 1236.34,
+    "vmt2": 2463.41,
+    "vmt3": 727.36
+  },
+  {
+    "county": "Santa Barbara",
+    "lanemiles1": "",
+    "lanemiles2": 401.57,
+    "lanemiles3": 355.3,
+    "vmt1": "",
+    "vmt2": 1570.21,
+    "vmt3": 522.29
+  },
+  {
+    "county": "Santa Clara",
+    "lanemiles1": 342.9,
+    "lanemiles2": 669.43,
+    "lanemiles3": 1646.27,
+    "vmt1": 2365.04,
+    "vmt2": 4366.25,
+    "vmt3": 3123.18
+  },
+  {
+    "county": "Santa Cruz",
+    "lanemiles1": "",
+    "lanemiles2": 116.38,
+    "lanemiles3": 98.11,
+    "vmt1": "",
+    "vmt2": 733.06,
+    "vmt3": 192.51
+  },
+  {
+    "county": "Shasta",
+    "lanemiles1": 287.31,
+    "lanemiles2": "",
+    "lanemiles3": 399.02,
+    "vmt1": 706.07,
+    "vmt2": "",
+    "vmt3": 361.68
+  },
+  {
+    "county": "Sierra",
+    "lanemiles1": 6.75,
+    "lanemiles2": "",
+    "lanemiles3": 14.05,
+    "vmt1": 21.85,
+    "vmt2": "",
+    "vmt3": 15.3
+  },
+  {
+    "county": "Siskiyou",
+    "lanemiles1": 292.45,
+    "lanemiles2": "",
+    "lanemiles3": 218.63,
+    "vmt1": 425.65,
+    "vmt2": "",
+    "vmt3": 130.73
+  },
+  {
+    "county": "Solano",
+    "lanemiles1": 484.21,
+    "lanemiles2": 41.27,
+    "lanemiles3": 380.42,
+    "vmt1": 3303.71,
+    "vmt2": 174.14,
+    "vmt3": 653.51
+  },
+  {
+    "county": "Sonoma",
+    "lanemiles1": "",
+    "lanemiles2": 258.64,
+    "lanemiles3": 223.16,
+    "vmt1": "",
+    "vmt2": 1352.52,
+    "vmt3": 551.62
+  },
+  {
+    "county": "Stanislaus",
+    "lanemiles1": 112.7,
+    "lanemiles2": 150.31,
+    "lanemiles3": 400.45,
+    "vmt1": 484.2,
+    "vmt2": 1117.19,
+    "vmt3": 820.39
+  },
+  {
+    "county": "Sutter",
+    "lanemiles1": "",
+    "lanemiles2": 62.77,
+    "lanemiles3": 142.77,
+    "vmt1": "",
+    "vmt2": 206.42,
+    "vmt3": 305.34
+  },
+  {
+    "county": "Tehama",
+    "lanemiles1": 166.6,
+    "lanemiles2": "",
+    "lanemiles3": 69.69,
+    "vmt1": 524.39,
+    "vmt2": "",
+    "vmt3": 116.52
+  },
+  {
+    "county": "Trinity",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 154.56,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 83.57
+  },
+  {
+    "county": "Tulare",
+    "lanemiles1": "",
+    "lanemiles2": 306.14,
+    "lanemiles3": 490.75,
+    "vmt1": "",
+    "vmt2": 1509.43,
+    "vmt3": 654.59
+  },
+  {
+    "county": "Tuolumne",
+    "lanemiles1": "",
+    "lanemiles2": "",
+    "lanemiles3": 190.16,
+    "vmt1": "",
+    "vmt2": "",
+    "vmt3": 240.48
+  },
+  {
+    "county": "Ventura",
+    "lanemiles1": "",
+    "lanemiles2": 443.12,
+    "lanemiles3": 910.7,
+    "vmt1": "",
+    "vmt2": 2721.49,
+    "vmt3": 1682.18
+  },
+  {
+    "county": "Yolo",
+    "lanemiles1": 297.39,
+    "lanemiles2": 45.82,
+    "lanemiles3": 100.04,
+    "vmt1": 1149.85,
+    "vmt2": 95.64,
+    "vmt3": 150.22
+  },
+  {
+    "county": "Yuba",
+    "lanemiles1": "",
+    "lanemiles2": 48.47,
+    "lanemiles3": 98.72,
+    "vmt1": "",
+    "vmt2": 146.27,
+    "vmt3": 223.93
+  }
+]
